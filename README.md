@@ -51,15 +51,6 @@ Through this program, I:
 - Applying structured and unstructured data analysis techniques  
 - Designing efficient and scalable database systems  
 
-## 📂 Repository Structure
-
-📁 commonwealth-bank-data-science-virtual-internship/
-├── Task-1_Data-Aggregation-and-Analysis/
-├── Task-2_Data-Anonymisation/
-├── Task-3_Propose-Data-Analysis-Approaches/
-├── Task-4_Designing-a-Database/
-└── README.md
-
 ## 🔗 Additional Information
 
 - https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/smwfytX3mcLboA9bf_2sNmYuurxgpFYawco_w2fHACqouLLTA3vdT_1746751918813_completion_certificate.pdf *
